@@ -1,0 +1,23 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Rider files (if ever used)
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Files you want to keep (Tasks.txt) are NOT ignored, so leave your Files folder tracked
+# Files/Tasks.txt
+# Files/Completed_Tasks.txt
